@@ -1,4 +1,4 @@
-# Network System Implementation for Marconi Law Firm
+# Enterprise Network System Implementation
 
 > A complete IT infrastructure design and deployment project for a fictional law firm client, covering LAN design, IP network planning, hardware procurement, Windows Server configuration, user and group management, and project documentation. Delivered on time and under a $60,000 budget.
 
