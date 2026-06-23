@@ -122,7 +122,7 @@ The project covers network design, hardware selection and procurement, Windows S
 
 ### Network Topology Diagram
 
-![Network Topology Diagram](./network_topology.png)
+![Network Topology Diagram](./Network_Topology.png)
 
 ---
 
@@ -218,7 +218,7 @@ Project completed **$9,243.28 under the $60,000 budget.**
 
 ## 📄 Documentation
 
-[View full network implementation report (PDF)](./network_system_implementation.pdf)
+[View full network implementation report (PDF)](./Network_System_Implementation.pdf)
 
 ---
 
